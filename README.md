@@ -1,4 +1,9 @@
 
+# EasySocket 
+
+The simplest TCP-Socket that supports connecting multiple clients 
+
+
 ## Usage example
 
 Server:
